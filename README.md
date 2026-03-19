@@ -3,7 +3,7 @@
 
 Hola! Som el **Grup 3** de SMX a l'institut castellbisbal. 
 
-Aquest repositori é amb objectiu de realitzar la tasca de control da cod�.
+Aquest repositori amb objectiu de realitzar la tasca de control da codÃ.
 
 ## Membres de l'equip
 * **Membre 1:** [Alberto Garcia]
@@ -12,7 +12,7 @@ Aquest repositori é amb objectiu de realitzar la tasca de control da cod�.
 * **Membre 4:** [Jan Canet]
 
 ## Sobre aquest projecte
-Estem treballant en el **Repte 3: Ladyup**, utilitzant eines professionals per a la gestió de sistemes:
+Estem treballant en el **Repte 3: Ladyup**, utilitzant eines professionals per a la gestio de sistemes:
 - **Control de versions:** Git i GitHub.
 - **Infraestructura:** Vagrant (Debian).
 
